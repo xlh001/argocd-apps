@@ -16,4 +16,4 @@ spec:
     - destination:
         host: guestbook-ui.default.svc.cluster.local
         port:
-          number: 8000
+          number: 80
